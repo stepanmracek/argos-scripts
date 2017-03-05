@@ -1,0 +1,7 @@
+{
+  "name": "argos-scripts",
+  "version": "0.0.1",
+  "dependencies": {
+    "icalendar": "^0.7.1"
+  }
+}
