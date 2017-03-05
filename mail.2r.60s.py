@@ -8,7 +8,7 @@ toCheck = {
         "username": "name.surname@server.com",
         "password": "123456789"
     },
-    "SecondAccounr": {
+    "SecondAccount": {
         "server": "imap.server2.com",
         "username": "name.surname2@server.com",
         "password": "123456789"
